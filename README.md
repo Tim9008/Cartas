@@ -19,7 +19,7 @@ Este é um jogo simples de **memória** desenvolvido com **p5.js**.
 
 ## 🚀 Como Executar
 
-1. Crie um arquivo HTML e inclua a p5.js:
+1. Crie um arquivo HTML e inclua a p5.js: https://editor.p5js.org/Timlaskapika/sketches/Hr_YA54VY
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
